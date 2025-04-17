@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
     <style>
+        
         /* Global Styles */
         * {
             margin: 0;
@@ -12,6 +13,7 @@
             box-sizing: border-box;
             font-family: 'Arial', sans-serif;
         }
+        
         
         body {
             line-height: 1.6;
